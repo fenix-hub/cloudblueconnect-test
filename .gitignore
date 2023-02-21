@@ -1,0 +1,7 @@
+*.pyc
+htmlcov
+.coverage
+coverage.xml
+.ocr_proj_dev.env
+node_modules
+ui/tests/coverage
